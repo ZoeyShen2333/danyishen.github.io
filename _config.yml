@@ -15,9 +15,9 @@ A start-up co-founder who is developing an AI-led ideation tool to better incuba
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: George Duan
   pic: 1
-  position: Lead Designer
+  position: Design Engineer
   social:
     - title: twitter
       url: #
@@ -51,9 +51,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/zoeyshen2333
   - title: facebook
-    url:
+    url:https://www.instagram.com/zoeyshen2333/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
